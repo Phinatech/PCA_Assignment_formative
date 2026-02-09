@@ -222,21 +222,3 @@ Advanced Linear Algebra - Formative Assignment
 ## License
 This project is created for educational purposes as part of an Advanced Linear Algebra course assignment.
 
-## Assignment Requirements Met ✓
-
-- ✓ Individual assignment
-- ✓ Dataset has missing values (NaN)
-- ✓ Dataset has at least 1 non-numeric column
-- ✓ Dataset has 10+ columns
-- ✓ African-focused dataset (not generic)
-- ✓ PCA implemented from scratch
-- ✓ Covariance matrix computed
-- ✓ Eigenvalues and eigenvectors calculated
-- ✓ Data projected onto principal components
-- ✓ Dynamic component selection based on variance
-- ✓ Performance optimization implemented
-- ✓ Benchmarking against scikit-learn
-- ✓ All code cells show visible output
-- ✓ Visualizations included
-- ✓ Code well-documented
-- ✓ GitHub repository submitted
